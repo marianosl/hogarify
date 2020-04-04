@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://hogarify.ml/</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/login.php</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/registro.php</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/index.php</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/productos.php</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/contacto.php</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=22</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=21</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=20</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=19</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=12</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=14</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=13</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=18</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/mapadelsitio.php</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/productos.php?id_categoria=1</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/productos.php?id_categoria=2</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/productos.php?id_categoria=3</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/productos.php?id_categoria=4</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/productos.php?id_categoria=5</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/productos.php?id_categoria=6</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/productos.php?id_categoria=7</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/productos.php?id_categoria=8</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/productos.php?id_categoria=10</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=2</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=9</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=16</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=17</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=6</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=3</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=11</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=10</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=4</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=7</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=5</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=1</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://hogarify.ml/detalleProducto.php?id_producto=15</loc>
+  <lastmod>2020-04-04T21:01:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
