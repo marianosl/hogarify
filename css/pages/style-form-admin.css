@@ -1,0 +1,386 @@
+/*Login & Registration
+------------------------------------*/
+/**General Styles**/
+/*Button Facebook Style*/
+.btn-u.btn-u-fb {
+   background: #4862a3;
+}
+.btn-u.btn-u-fb:hover, 
+.btn-u.btn-u-fb:focus, 
+.btn-u.btn-u-fb:active, 
+.btn-u.btn-u-fb.active, 
+.open .dropdown-toggle.btn-u.btn-u-fb {
+   background: #5168a3;
+}
+.btn-u.btn-u-split-fb.dropdown-toggle {
+   border-left: solid 1px #5168a3;
+}
+
+/*Button Twitter Style*/
+.btn-u.btn-u-tw {
+   background: #159ceb;
+}
+.btn-u.btn-u-tw:hover, 
+.btn-u.btn-u-tw:focus, 
+.btn-u.btn-u-tw:active, 
+.btn-u.btn-u-tw.active, 
+.open .dropdown-toggle.btn-u.btn-u-tw {
+   background: #39a6e5;
+}
+.btn-u.btn-u-split-tw.dropdown-toggle {
+   border-left: solid 1px #39a6e5;
+}
+
+.btn-u.btn-u-fb i,
+.btn-u.btn-u-tw i {
+  font-size: 20px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+/*Welcome Title*/
+.alta-modificacion-admin h2.welcome-title {
+	font-size: 34px;
+	font-weight: 200;
+	line-height: 50px;
+	margin-top: -10px;
+	margin-bottom: 20px;
+}
+
+.alta-modificacion-admin .alta-modificacion-block {
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+.alta-modificacion-admin .alta-modificacion-block h2 {
+	font-size: 22px;
+	font-weight: 200;
+	text-align: center;
+	margin-bottom: 30px;
+	text-transform: capitalize;
+}
+
+.alta-modificacion-admin .alta-modificacion-block a {
+	color: #687074;
+	text-decoration: underline;
+}
+
+.alta-modificacion-admin .alta-modificacion-block a:hover {
+	color: #18ba9b;
+}
+
+/*Checkbox style*/
+.alta-modificacion-admin .checkbox {
+	display: block;
+	overflow: hidden;
+	position: relative;
+}
+
+.alta-modificacion-admin .checkbox {
+	color: #999;
+	margin-top: 0;
+	color: #687074;
+	cursor: pointer;
+	font-size: 14px;
+	line-height: 25px;
+	padding-left: 27px;
+	font-weight: normal;
+}
+
+.alta-modificacion-admin .checkbox input {
+	left: -9999px;
+	position: absolute;
+}
+
+.alta-modificacion-admin .checkbox i {
+	left: 0;
+	top: 5px;
+	width: 15px;
+	height: 15px;
+	outline: none;
+	display: block;
+	background: #fff;
+	border-width: 2px;
+	position: absolute;
+	border-style: solid;
+}
+
+.alta-modificacion-admin .checkbox input + i:after {
+	opacity: 0;
+	position: absolute;
+}
+
+.alta-modificacion-admin .checkbox input + i:after {
+	top: -3px;
+	left: -2px;
+	width: 15px;
+	height: 15px;
+	content: '\f00c';
+	text-align: center;
+	font: normal 8px/17px FontAwesome;
+}
+
+.alta-modificacion-admin .checkbox input:checked + i:after {
+	opacity: 1;
+}
+
+.alta-modificacion-admin .checkbox i {
+	border-color: #8bdccd;
+	-ms-transition: border-color 0.3s;
+	-moz-transition: border-color 0.3s;
+	-webkit-transition: border-color 0.3s;
+}
+
+.alta-modificacion-admin .checkbox:hover i {
+	border-color: #18ba9b;
+}
+
+.alta-modificacion-admin .checkbox input:focus + i {
+	border-color: #18ba9b;
+}
+
+.alta-modificacion-admin .checkbox input + i:after {
+	color: #18ba9b;
+}
+.alta-modificacion-admin .checkbox input:checked + i {
+	border-color: #18ba9b;	
+}
+
+.alta-modificacion-admin .checkbox small {
+	float: right;
+}
+
+.alta-modificacion-admin .checkbox small a {
+	color: #18ba9b;
+	font-size: 12px;
+}
+
+/*Login Input*/
+.alta-modificacion-admin .alta-modificacion-input i {
+	font-size: 20px;
+	min-width: 25px;
+}
+
+.alta-modificacion-admin .alta-modificacion-input input {
+	height: 40px;
+}
+
+.alta-modificacion-admin .alta-modificacion-input span,
+.alta-modificacion-admin .alta-modificacion-input input {
+	color: #ccc;
+	border-color: #ccc;
+}
+
+.alta-modificacion-admin .alta-modificacion-input .form-control {
+	color: #555;
+	font-weight: 600;
+}
+
+.alta-modificacion-admin .alta-modificacion-input .form-control:focus {
+	box-shadow: none;
+}
+
+.alta-modificacion-admin .alta-modificacion-input .no-border-top{
+	margin-top: -1px;
+}
+
+.alta-modificacion-admin .input input::-moz-placeholder {
+	color: #ccc;
+}
+.alta-modificacion-admin .input input:-ms-input-placeholder {
+	color: #ccc;
+}
+.alta-modificacion-admin .input input::-webkit-input-placeholder {
+	color: #ccc;
+}
+
+/*Register Input*/
+.alta-modificacion-admin .alta-modificacion-block label {
+	font-weight: normal;
+}
+
+.alta-modificacion-admin .alta-modificacion-block section {
+	margin-bottom: 5px;
+}
+
+.alta-modificacion-admin .alta-modificacion-input section {
+	margin-bottom: 15px;
+}
+
+.alta-modificacion-admin .alta-modificacion-input .input,
+.alta-modificacion-admin .alta-modificacion-input .select {
+	display: block;
+}
+
+.alta-modificacion-admin .alta-modificacion-input .input input {
+	width: 100%;
+}
+
+.alta-modificacion-admin .alta-modificacion-input select {
+	font-weight: 200;
+	min-height: 40px;
+	color: #888 !important;
+}
+
+/*Error State*/
+.alta-modificacion-admin .state-error input,
+.alta-modificacion-admin .state-error select,
+.alta-modificacion-admin .state-error textarea,
+.alta-modificacion-admin .radio.state-error i,
+.alta-modificacion-admin .checkbox.state-error i,
+.alta-modificacion-admin .toggle.state-error i {
+	background: #fff0f0;
+}
+
+.alta-modificacion-admin .state-error select + i {
+	background: #fff0f0;
+	box-shadow: 0 0 0 12px #fff0f0;
+}
+
+.alta-modificacion-admin .toggle.state-error input:checked + i {
+	background: #fff0f0;
+}
+
+.alta-modificacion-admin .state-error + em {
+	display: block;
+	color: #ee9393;
+	padding: 0 1px;
+	font-size: 11px;
+	margin-top: 6px;
+	line-height: 15px;
+	font-style: normal;
+}
+
+.alta-modificacion-admin .rating.state-error + em {
+	margin-top: -4px;
+	margin-bottom: 4px;
+}
+
+/*Success State*/
+.alta-modificacion-admin .state-success input,
+.alta-modificacion-admin .state-success select,
+.alta-modificacion-admin .state-success textarea,
+.alta-modificacion-admin .radio.state-success i,
+.alta-modificacion-admin .checkbox.state-success i,
+.alta-modificacion-admin .toggle.state-success i {
+	background: #f0fff0;
+}
+
+.alta-modificacion-admin .state-success select + i {
+	background: #f0fff0;
+	box-shadow: 0 0 0 12px #f0fff0;
+}
+
+.alta-modificacion-admin .toggle.state-success input:checked + i {
+	background: #f0fff0;
+}
+
+.alta-modificacion-admin .state-success + em {
+	display: block;
+	color: #ee9393;
+	padding: 0 1px;
+	margin-top: 6px;
+	font-size: 11px;
+	line-height: 15px;
+	font-style: normal;
+}
+
+.alta-modificacion-admin .note-success {
+	color: #6fb679;
+}
+
+/*Row Columns Space Removes*/
+.alta-modificacion-admin .columns-space-removes .col-sm-6:nth-child(odd) {
+	padding-right: 5px;
+}
+.alta-modificacion-admin .columns-space-removes .col-sm-6:nth-child(even) {
+	padding-left: 5px;
+}
+
+@media (max-width: 1200px) {
+	.alta-modificacion-admin .columns-space-removes .col-sm-6:nth-child(odd) {
+		padding-right: 15px;
+	}
+	.alta-modificacion-admin .columns-space-removes .col-sm-6:nth-child(even) {
+		padding-left: 15px;
+	}
+}
+
+/*Border Wings*/
+.alta-modificacion-admin .border-wings {
+	text-align: center;
+}
+
+.alta-modificacion-admin .border-wings span {
+	color: #687074;
+	font-size: 14px;
+  	padding: 0 10px;
+	position: relative;
+  	margin-bottom: 15px;
+  	display: inline-block;
+	text-transform: uppercase;
+}
+
+.alta-modificacion-admin .border-wings span:before,
+.alta-modificacion-admin .border-wings span:after {
+	top: 10px;
+	height: 1px;
+	width: 100%;
+	content: " ";
+	background: #ccc;
+	position: absolute;
+}
+
+.alta-modificacion-admin .border-wings span:before {
+  	left: 100%;
+}
+
+.alta-modificacion-admin .border-wings span:after {
+  	right: 100%;
+}
+
+/*Site Statistics*/
+.alta-modificacion-admin .site-statistics {
+	padding: 10px;
+	text-align: center;
+	background: #f8f8f8;
+}
+
+.alta-modificacion-admin .site-statistics span {
+	color: #888;
+	display: block;
+	font-size: 26px;
+	font-weight: 200;
+	position: relative;
+	margin-bottom: 10px;
+}
+
+.alta-modificacion-admin .site-statistics span:after {
+	left: 50%;
+	height: 1px;
+	width: 10px;
+	bottom: -5px;
+	content: " ";
+	background: #888;
+	margin-left: -5px;
+	position: absolute;
+}
+
+.alta-modificacion-admin .site-statistics small {
+	color: #888;
+	font-size: 12px;
+	text-transform: uppercase;
+}
+
+/*Members Number*/
+.alta-modificacion-admin .members-number {
+	text-align: center;
+}
+
+.alta-modificacion-admin .members-number h3 {
+	margin-bottom: 25px;
+}
+
+.alta-modificacion-admin .members-number img {
+	margin: 0 auto;
+}
